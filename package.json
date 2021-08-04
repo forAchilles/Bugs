@@ -1,0 +1,26 @@
+{
+  "name": "blogf",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "eleventy --serve",
+    "build": "eleventy"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/forAchilles/Bugs.git"
+  },
+  "keywords": [
+    "kabir"
+  ],
+  "author": "kabir",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/forAchilles/Bugs/issues"
+  },
+  "homepage": "https://github.com/forAchilles/Bugs#readme",
+  "devDependencies": {
+    "@11ty/eleventy": "^0.12.1"
+  }
+}
