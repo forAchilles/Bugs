@@ -1,8 +1,8 @@
 module.exports = function(eleventyConfig) {
     return {
-        div: {
+        dir: {
             input: "src",
-            putput: "public"
+            output: "public"
         }
     };
 }
